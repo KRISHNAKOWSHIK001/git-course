@@ -1,1 +1,4 @@
 File 1 Created
+
+git add .      //to track the file and to add
+git commit -m "comments to display"    // to add the file in the git
